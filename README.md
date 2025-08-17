@@ -9,8 +9,7 @@ El objetivo es identificar patrones de comportamiento, descubrir insights y prop
 ## 👩‍💻 Autor  
 
 - **Nombre:** Milagros Yucra  
-- **Mail:** *[tu correo aquí]*  
-- **GitHub:** [MilagrosYucra](https://github.com/MilagrosYucra)  
+
 
 ---
 
